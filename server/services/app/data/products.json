@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Blue T-Shirt",
+    "slug": "blue-t-shirt",
+    "description": "A comfortable and stylish blue t-shirt.",
+    "price": 35000,
+    "mainImg": "https://images.unsplash.com/photo-1569271434539-87ce3bbbaa06?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZSUyMHQlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 1,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 2,
+    "name": "Black Jeans",
+    "slug": "black-jeans",
+    "description": "Classic black jeans suitable for any occasion.",
+    "price": 40000,
+    "mainImg": "https://images.unsplash.com/photo-1520981428275-74c46b0d1bfd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fEJsYWNrJTIwSmVhbnN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 2,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 3,
+    "name": "Floral Dress",
+    "slug": "floral-dress",
+    "description": "A beautiful floral dress for a feminine look.",
+    "price": 50000,
+    "mainImg": "https://images.unsplash.com/photo-1517970640957-23d07d5ed08c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RmxvcmFsJTIwRHJlc3N8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 3,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 4,
+    "name": "Knit Sweater",
+    "slug": "knit-sweater",
+    "description": "A cozy and warm knit sweater for chilly days.",
+    "price": 35000,
+    "mainImg": "https://images.unsplash.com/photo-1554355792-be06d064c767?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fEtuaXQlMjBTd2VhdGVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 4,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 5,
+    "name": "Red T-Shirt",
+    "slug": "red-t-shirt",
+    "description": "A vibrant red t-shirt for a bold statement.",
+    "price": 30000,
+    "mainImg": "https://images.unsplash.com/photo-1521498542256-5aeb47ba2b36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fFJlZCUyMFQlMjBTaGlydHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 1,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 6,
+    "name": "Distressed Jeans",
+    "slug": "distressed-jeans",
+    "description": "Trendy distressed jeans with a worn-in look.",
+    "price": 45000,
+    "mainImg": "https://images.unsplash.com/photo-1510734790177-c931e3956547?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fERpc3RyZXNzZWQlMjBKZWFuc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 2,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 7,
+    "name": "Maxi Dress",
+    "slug": "maxi-dress",
+    "description": "An elegant and flowy maxi dress for special occasions.",
+    "price": 60000,
+    "mainImg": "https://images.unsplash.com/photo-1600988617849-e99dcfe97f11?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fE1heGklMjBEcmVzc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 3,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 8,
+    "name": "Hooded Sweater",
+    "slug": "hooded-sweater",
+    "description": "A stylish hooded sweater to keep you warm.",
+    "price": 40000,
+    "mainImg": "https://images.unsplash.com/photo-1501078319173-5d5298f2faf8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8SG9vZGVkJTIwU3dlYXRlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 4,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 9,
+    "name": "Striped T-Shirt",
+    "slug": "striped-t-shirt",
+    "description": "A trendy striped t-shirt for a casual look.",
+    "price": 35000,
+    "mainImg": "https://images.unsplash.com/photo-1685968559503-23a4d0223d84?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFN0cmlwZWQlMjBUJTIwU2hpcnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 1,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 10,
+    "name": "Ripped Jeans",
+    "slug": "ripped-jeans",
+    "description": "Stylish ripped jeans with a fashionable edge.",
+    "price": 50000,
+    "mainImg": "https://images.unsplash.com/photo-1520516668418-3661351e2e54?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UmlwcGVkJTIwSmVhbnN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 2,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 11,
+    "name": "Midi Dress",
+    "slug": "midi-dress",
+    "description": "A versatile midi dress for various occasions.",
+    "price": 45000,
+    "mainImg": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80",
+    "CategoryId": 3,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 12,
+    "name": "Chunky Sweater",
+    "slug": "chunky-sweater",
+    "description": "A cozy and chunky sweater for a relaxed look.",
+    "price": 35000,
+    "mainImg": "https://images.unsplash.com/photo-1531236977278-eefb3b924c5c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fENodW5reSUyMFN3ZWF0ZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 4,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 13,
+    "name": "Green T-Shirt",
+    "slug": "green-t-shirt",
+    "description": "A refreshing green t-shirt for a pop of color.",
+    "price": 30000,
+    "mainImg": "https://media.istockphoto.com/id/1204158913/id/foto/cantik-wanita-muda-dalam-t-shirt-hijau-di-atas-latar-belakang-putih.jpg?s=612x612&w=0&k=20&c=PArDkRyX4M4W9z_VvUzF3Xm6CFZT6EEw93rh1ZLV8ag=",
+    "CategoryId": 1,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 14,
+    "name": "Slim Fit Jeans",
+    "slug": "slim-fit-jeans",
+    "description": "Slim fit jeans that flatter your figure.",
+    "price": 40000,
+    "mainImg": "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U2xpbSUyMEZpdCUyMEplYW5zfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 2,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 15,
+    "name": "Wrap Dress",
+    "slug": "wrap-dress",
+    "description": "A stylish wrap dress for a feminine touch.",
+    "price": 55000,
+    "mainImg": "https://plus.unsplash.com/premium_photo-1668127170054-b8e6f352bcc2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fFdyYXAlMjBEcmVzc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 3,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 16,
+    "name": "Cardigan Sweater",
+    "slug": "cardigan-sweater",
+    "description": "A versatile and comfortable cardigan sweater.",
+    "price": 35000,
+    "mainImg": "https://images.unsplash.com/photo-1679666715483-65945a31d1b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q2FyZGlnYW4lMjBTd2VhdGVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 4,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 17,
+    "name": "Yellow T-Shirt",
+    "slug": "yellow-t-shirt",
+    "description": "A bright and cheerful yellow t-shirt.",
+    "price": 30000,
+    "mainImg": "https://images.unsplash.com/photo-1611202645713-c2ecb5aeb365?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODh8fFllbGxvdyUyMFQlMjBTaGlydHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 1,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 18,
+    "name": "High-Waisted Jeans",
+    "slug": "high-waisted-jeans",
+    "description": "Flattering high-waisted jeans for a retro look.",
+    "price": 45000,
+    "mainImg": "https://images.unsplash.com/photo-1524787805232-c1d8c5121399?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDl8fEhpZ2glMjBXYWlzdGVkJTIwSmVhbnN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 2,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 19,
+    "name": "Off-Shoulder Dress",
+    "slug": "off-shoulder-dress",
+    "description": "An elegant off-shoulder dress for a sophisticated appearance.",
+    "price": 60000,
+    "mainImg": "https://images.unsplash.com/photo-1473286835901-04adb1afab03?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8T2ZmJTIwU2hvdWxkZXIlMjBEcmVzc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 3,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  },
+  {
+    "id": 20,
+    "name": "Cable Knit Sweater",
+    "slug": "cable-knit-sweater",
+    "description": "A classic cable knit sweater for a timeless look.",
+    "price": 40000,
+    "mainImg": "https://images.unsplash.com/photo-1518177172598-e4d9ba89a5a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjN8fENhYmxlJTIwS25pdCUyMFN3ZWF0ZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "CategoryId": 4,
+    "AuthorId": "649ab06573ef7bd73f709bee"
+  }
+]

@@ -1,0 +1,15 @@
+FROM node:lts-hydrogen
+
+ENV PORT=4002
+ENV NODE_ENV=production
+ENV DATABASE_URL=postgresql://postgres:CvZ88u4sswM7fMfP@db.ojpvdsgpxvduovlamjto.supabase.co:5432/postgres
+
+WORKDIR /app
+
+COPY ["package.json", "package-lock.json", "./"]
+
+RUN npm install
+
+COPY . .
+
+CMD ["npm", "start"]

@@ -1,0 +1,14 @@
+FROM node:lts-hydrogen
+
+ENV NODE_ENV=production
+ENV DATABASE_URL=mongodb+srv://ciptandaru:Mo06SpC0bmoTT1O3@cluster0.p2nushc.mongodb.net/
+ENV PORT=4001
+WORKDIR /users
+
+COPY ["package.json", "package-lock.json", "./"]
+
+RUN npm install
+
+COPY . .
+
+CMD ["npm", "start"]

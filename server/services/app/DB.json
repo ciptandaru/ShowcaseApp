@@ -1,0 +1,210 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "slug": "product-1",
+      "description": "Description of Product 1",
+      "price": 10,
+      "mainImg": "image-url-1.jpg",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "slug": "product-2",
+      "description": "Description of Product 2",
+      "price": 15,
+      "mainImg": "image-url-2.jpg",
+      "categoryId": 2,
+      "authorId": 2
+    },
+    {
+      "name": "fasfasfasfafas",
+      "slug": "",
+      "description": "afsafasf",
+      "price": "50000",
+      "mainImg": "fasfasfasf",
+      "categoryId": "1",
+      "authorId": 1,
+      "id": 3
+    },
+    {
+      "name": "fasfasfasfafas",
+      "slug": "",
+      "description": "afsafasf",
+      "price": "50000",
+      "mainImg": "fasfasfasf",
+      "categoryId": 1,
+      "authorId": 1,
+      "id": 4
+    },
+    {
+      "name": "fasfasfasfafas",
+      "slug": "fasfasfasfafas",
+      "description": "afsafasf",
+      "price": "50000",
+      "mainImg": "fasfasfasf",
+      "categoryId": 1,
+      "authorId": 1,
+      "id": 5
+    },
+    {
+      "name": "fasfasfasfafas aghehaha",
+      "slug": "fasfasfasfafas-aghehaha",
+      "description": "afsafasf",
+      "price": "50000",
+      "mainImg": "fasfasfasf",
+      "categoryId": 1,
+      "authorId": 1,
+      "id": 6
+    },
+    {
+      "name": "cafsadfa",
+      "slug": "cafsadfa",
+      "description": "fasfasfasf",
+      "price": "50000",
+      "mainImg": "fadsfaf",
+      "categoryId": 1,
+      "authorId": 1,
+      "id": 7
+    },
+    {
+      "name": "vzvv afagav avbasfvas",
+      "slug": "vzvv-afagav-avbasfvas",
+      "description": "fasfsafasf",
+      "price": "50000",
+      "mainImg": "asfasfasfasfa",
+      "categoryId": 1,
+      "authorId": 1,
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "id": 29
+    },
+    {
+      "id": 30
+    },
+    {
+      "id": 31
+    },
+    {
+      "id": 32
+    },
+    {
+      "id": 33
+    },
+    {
+      "id": 34
+    },
+    {
+      "id": 35
+    },
+    {
+      "id": 36
+    },
+    {
+      "name": "asfasa",
+      "slug": "asfasa",
+      "description": "asfasfasf",
+      "price": "5000",
+      "mainImg": "asfas",
+      "categoryId": 1,
+      "authorId": 1,
+      "id": 37
+    },
+    {
+      "name": "fafa",
+      "slug": "fafa",
+      "description": "fasfasfasf",
+      "price": "50000",
+      "mainImg": "fasfasfas",
+      "categoryId": 1,
+      "authorId": 1,
+      "id": 38
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Category 1"
+    },
+    {
+      "id": 2,
+      "name": "Category 2"
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "productId": 1,
+      "imgUrl": "image-url-1.jpg"
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "imgUrl": "image-url-2.jpg"
+    }
+  ]
+}
